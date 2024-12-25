@@ -1,1 +1,3 @@
-year month day hour obs_tmp fc_temp
+year	month	hour	obs-temp	fc_temp
+2024 12 25 19 °C 19 ° C
+2024 12 25 19 °C 19 ° C
